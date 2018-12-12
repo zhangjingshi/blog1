@@ -1,4 +1,3 @@
-# what
-fuck IT
-
-##  This is  my second conmmit
+# blog
+learning is make happy for me 
+so wash and sleep
